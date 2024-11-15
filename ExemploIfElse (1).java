@@ -13,5 +13,6 @@ public class ExemploIfElse {
         } else {
             System.out.println("Você é um desenvolvedor sênior!");
         }
+        scanner.close();//fecha o scanner 
     }
 }
